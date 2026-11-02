@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/rbarrois/python-semanticversion/commit/2cbbee3154d9011cee873ae3a020cd17c669f6df",
       "git:hexsha": "2cbbee3154d9011cee873ae3a020cd17c669f6df",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-02T18:52:34.188364+00:00"
     },
     {
       "@id": "https://repolex.ai/r/rbarrois/python-semanticversion/commit/c57899e853ddf5161b53df3bad82accfe0873f6e",
