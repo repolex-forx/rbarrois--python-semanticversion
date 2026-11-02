@@ -1,0 +1,11 @@
+{
+  "org": "rbarrois",
+  "repo": "python-semanticversion",
+  "versions": [
+    {
+      "commit": "2cbbee3154d9011cee873ae3a020cd17c669f6df",
+      "tag": "",
+      "parsed_at": "2026-11-02T18:52:34.189020+00:00"
+    }
+  ]
+}
