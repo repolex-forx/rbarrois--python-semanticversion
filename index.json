@@ -3,6 +3,11 @@
   "repo": "python-semanticversion",
   "versions": [
     {
+      "commit": "cd6143f829e59e5fea9d4e8d244dfe8d4d6c80d3",
+      "tag": "v2.6.0",
+      "parsed_at": "2026-11-22T00:55:52.581529+00:00"
+    },
+    {
       "commit": "2cbbee3154d9011cee873ae3a020cd17c669f6df",
       "tag": "",
       "parsed_at": "2026-11-02T18:52:34.189020+00:00"
